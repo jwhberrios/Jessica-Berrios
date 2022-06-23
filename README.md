@@ -1,2 +1,2 @@
 # Personal-Website
-Collection of my projects
+My personal portfolio showcasing my projects.
