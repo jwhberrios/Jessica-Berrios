@@ -6,6 +6,7 @@ h1 {
   font-size:3em;
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
+  color:#343a40;
 }
 
 .name {
@@ -70,6 +71,7 @@ footer a {
 
 .education-container {
   padding: 60px 0;
+  color:grey
 }
 
 .education-item {
@@ -78,7 +80,7 @@ footer a {
 
 .container-color, .container-dark {
   padding: 100px 0;
-  color: #fff;
+  color: grey;
 }
 
 .container-color {
