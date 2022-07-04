@@ -193,7 +193,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content {
 	 width: 45%;
-	 background: #fff;
+	 background: black;
 	 padding: 20px;
 	 border-radius: 0;
 	 transition: all 0.3s ease;
@@ -201,7 +201,7 @@ footer a {
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
 	 background: #8031A7;
-	 color: #fff;
+	 color: black;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
 	 -webkit-border-radius: 3px 3px 0 0;
