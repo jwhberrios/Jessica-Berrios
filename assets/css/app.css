@@ -1,6 +1,6 @@
 html, body {
   font-family: 'Lato', sans-serif;
-  background: linear-gradient(to left, grey, black, grey);
+  color: black;
 }
 
 h1 {
@@ -203,7 +203,7 @@ footer a {
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
 	 background: #8031A7;
-	 color: black;
+	 color: white;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
 	 -webkit-border-radius: 3px 3px 0 0;
