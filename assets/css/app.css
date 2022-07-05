@@ -1,6 +1,6 @@
 html, body {
   font-family: 'Lato', sans-serif;
-  color: whitesmoke;
+  background: radial-gradient(grey,black,grey);
 }
 
 h1 {
@@ -17,7 +17,6 @@ h1 {
 }
 
 footer {
-  background-color: #343a40;
   color: #fff;
   display: flex;
   align-items: flex-start;
@@ -34,7 +33,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, grey, black, grey);
+  background: linear-gradient(grey,black, grey);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -62,7 +61,7 @@ footer a {
   width:500px;
   max-width: 90%;
   margin: 0 auto;
-  background-color: grey;
+  background-color: black;
   color: white;
   
 }
@@ -73,35 +72,37 @@ footer a {
 }
 
 .education-container {
-  padding: 60px 0;
-  color: grey;
-}
-
-.education-item {
-  padding: 20px 0;
-}
-
-.container-color, .container-dark {
-  padding: 100px 0;
+  padding: 10px 0;
+  background: line-height(grey, black, grey);
   color: white;
 }
 
+.education-item {
+  padding: 10px 0;
+}
+
+.container-color, .container-dark {
+  padding: 55px 0;
+ 
+}
+
 .container-color {
-  background-color: white;
+  background: line-height(grey,black,grey);
 }
 
 .container-dark {
-  background-color: #343a40;
+  background: linear-gradient(grey,black,grey);
 }
 
 .card-title {
   margin-top: 50px;
-  color: #8031A7;
+  color: whitesmoke;
   text-align: center;
 }
 
 .card-text {
   line-height: 2;
+  color: whitesmoke;
 }
 
 .card-icon{
@@ -110,8 +111,8 @@ footer a {
 }
 
 .subtitle {
-    font-weight: 200;
-    color: white;
+    font-weight: 250;
+    color: whitesmoke;
 }
 
 .boy {
@@ -133,14 +134,14 @@ footer a {
 }
 
 .social-icon {
-    color: black;
+    color: whitesmoke;
     font-size: 36px;
     margin-right: 40px;
 }
 
 .skill-container{
     padding: 30px;
-    background-color: white;
+    background-color: rgb(213, 199, 199);
 }
 
 .fa-align {
@@ -300,7 +301,7 @@ footer a {
   top: 0;
   right: 0;
   left: 0;
-  height: 50px;
+  height: 5px;
   padding: 10px;
   background: white;
   border: 0;
@@ -308,7 +309,7 @@ footer a {
 }
 
 .modal-title {
-  font-weight: 300;
+  font-weight: 100;
   font-size: 2em;
   color: #fff;
   line-height: 30px;
@@ -316,10 +317,10 @@ footer a {
 
 .modal-body {
   position: absolute;
-  top: 50px;
-  bottom: 60px;
+  top: 0px;
+  bottom: 0px;
   width: 100%;
-  font-weight: 300;
+  font-weight: 200;
   overflow: auto;
 }
 
