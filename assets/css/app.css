@@ -1,6 +1,5 @@
 html, body {
   font-family: 'Lato', sans-serif;
-  color: black;
 }
 
 h1 {
@@ -63,6 +62,7 @@ footer a {
   max-width: 90%;
   margin: 0 auto;
   background-color: black;
+  color: white;
   
 }
 
@@ -86,7 +86,7 @@ footer a {
 }
 
 .container-color {
-  background-color:grey, black, grey;
+  background-color: linear-gradient grey, black, grey;
 }
 
 .container-dark {
