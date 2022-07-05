@@ -1,5 +1,6 @@
 html, body {
   font-family: 'Lato', sans-serif;
+  color: whitesmoke;
 }
 
 h1 {
@@ -61,7 +62,7 @@ footer a {
   width:500px;
   max-width: 90%;
   margin: 0 auto;
-  background-color: black;
+  background-color: grey;
   color: white;
   
 }
@@ -82,11 +83,11 @@ footer a {
 
 .container-color, .container-dark {
   padding: 100px 0;
-  color: black;
+  color: white;
 }
 
 .container-color {
-  background-color: linear-gradient grey, black, grey;
+  background-color: white;
 }
 
 .container-dark {
@@ -112,6 +113,7 @@ footer a {
     font-weight: 200;
     color: white;
 }
+
 .boy {
     display: block;
     height: 200px;
@@ -196,6 +198,7 @@ footer a {
  #timeline .timeline-item .timeline-content {
 	 width: 45%;
 	 background: black;
+   color: white;
 	 padding: 20px;
 	 border-radius: 0;
 	 transition: all 0.3s ease;
@@ -299,7 +302,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: black;
+  background: white;
   border: 0;
   border-radius: 0;
 }
@@ -327,5 +330,5 @@ footer a {
   left: 0;
   height: 60px;
   padding: 10px;
-  background: black;
+  background: white;
 }
